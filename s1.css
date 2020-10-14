@@ -1,0 +1,42 @@
+ul li{
+	list-style: none;
+	float: left;
+	width: 16%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#a{
+	width: 16%;
+	height: 200px;
+	float: left;
+}
+#b{
+	width: 16%;
+	height: 200px;
+	float: left;
+}
+#c{
+	width: 16%;
+	height: 200px;
+	float: left;
+}
+.bt{
+	height: 30px;
+	width: 105px;
+	padding: 3px;
+	border: none;
+	transform: translate(1050%,60%);
+	color: #FFFFFF;
+	background: #000000;
+	font-size: 17px;
+}
+
+.bt:hover{
+	color: #000000;
+	background: #FFFFFF;	
+}
